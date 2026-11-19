@@ -1,0 +1,63 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 571 >>
+stream
+BT
+/F1 30 Tf
+60 720 Td
+(Shami Mukasa) Tj
+/F2 14 Tf
+0 -24 Td
+(AI and Full Stack Developer) Tj
+/F2 11 Tf
+0 -21 Td
+(Networking  |  Machine Learning  |  IoT) Tj
+/F2 11 Tf
+0 -21 Td
+/F2 11 Tf
+0 -21 Td
+(---------------------------------------------) Tj
+/F2 11 Tf
+0 -21 Td
+(PLACEHOLDER FILE - replace public/resume.pdf with your real resume.) Tj
+/F2 11 Tf
+0 -21 Td
+(The Download / Resume buttons on the site point to this file.) Tj
+/F2 11 Tf
+0 -21 Td
+(---------------------------------------------) Tj
+/F2 11 Tf
+0 -21 Td
+(shamimukasa@gmail.com   |   github.com/shamimukasa) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000873 00000 n 
+0000000948 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1018
+%%EOF
